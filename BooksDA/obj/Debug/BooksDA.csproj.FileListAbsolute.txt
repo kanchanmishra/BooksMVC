@@ -1,0 +1,5 @@
+C:\Projects\SitecoreMVC\BooksMVC\BooksDA\bin\Debug\BooksDA.dll
+C:\Projects\SitecoreMVC\BooksMVC\BooksDA\bin\Debug\BooksDA.pdb
+C:\Projects\SitecoreMVC\BooksMVC\BooksDA\obj\Debug\BooksDA.csproj.CoreCompileInputs.cache
+C:\Projects\SitecoreMVC\BooksMVC\BooksDA\obj\Debug\BooksDA.dll
+C:\Projects\SitecoreMVC\BooksMVC\BooksDA\obj\Debug\BooksDA.pdb

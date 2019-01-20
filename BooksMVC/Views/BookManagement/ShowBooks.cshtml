@@ -1,0 +1,41 @@
+﻿@using System.Collections.Generic;
+@model BookBL.ManageBooks
+
+    @{
+    ViewBag.Title = "Admin Books Management";
+    }
+    <h2>@ViewBag.Title</h2>
+    <h2>Books Details</h2>
+
+<table class="">
+    <thead>
+        <tr>
+            <th>Book Id</th>
+            <th>Book Name</th>
+            <th>Borrowed</th>
+            <th>Edit</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.GetAllBooks().Books)
+        {
+        <tr>
+            <td>@item.BookId</td>
+            <td>@item.Title</td>
+            <td>@if (string.IsNullOrEmpty(item.WhoBorrowed))
+                    { <div>Available</div> }
+            else
+            { <div>@item.WhoBorrowed</div>}
+            </td>
+            <td>
+                @if (string.IsNullOrEmpty(item.WhoBorrowed))
+                {
+                    @Html.ActionLink("Edit Catalog", "EditCatalog", new { @Id= item.BookId})
+                }
+               
+            </td>
+
+        </tr>
+        }
+    </tbody>
+</table>

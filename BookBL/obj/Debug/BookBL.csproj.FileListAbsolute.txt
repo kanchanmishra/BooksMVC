@@ -1,0 +1,9 @@
+C:\Projects\SitecoreMVC\BooksMVC\BookBL\bin\Debug\BookBL.dll
+C:\Projects\SitecoreMVC\BooksMVC\BookBL\bin\Debug\BookBL.pdb
+C:\Projects\SitecoreMVC\BooksMVC\BookBL\bin\Debug\BooksDA.dll
+C:\Projects\SitecoreMVC\BooksMVC\BookBL\bin\Debug\BooksDA.pdb
+C:\Projects\SitecoreMVC\BooksMVC\BookBL\obj\Debug\BookBL.csprojResolveAssemblyReference.cache
+C:\Projects\SitecoreMVC\BooksMVC\BookBL\obj\Debug\BookBL.csproj.CoreCompileInputs.cache
+C:\Projects\SitecoreMVC\BooksMVC\BookBL\obj\Debug\BookBL.csproj.CopyComplete
+C:\Projects\SitecoreMVC\BooksMVC\BookBL\obj\Debug\BookBL.dll
+C:\Projects\SitecoreMVC\BooksMVC\BookBL\obj\Debug\BookBL.pdb
